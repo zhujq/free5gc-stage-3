@@ -8,6 +8,7 @@ import (
 	// "free5gc/lib/milenage"
 	// m "free5gc/lib/openapi/models"
 	"free5gc/src/udm/logger"
+	"free5gc/src/udm/version"
 	"free5gc/src/udm/udm_service"
 	"os"
 )
